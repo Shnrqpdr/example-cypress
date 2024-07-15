@@ -1,0 +1,22 @@
+{
+  "name": "example-cypress",
+  "version": "1.0.0",
+  "description": "Example Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shnrqpdr/example-cypress.git"
+  },
+  "author": "Pedro Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shnrqpdr/example-cypress/issues"
+  },
+  "homepage": "https://github.com/Shnrqpdr/example-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
